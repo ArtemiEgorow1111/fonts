@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+
+.safe-font {
+    font-family: Arial;
+}
+
+.google-font {
+    font-family: "Monomakh", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.custom-font {
+    font-family: "SchoolBook", serif;
+    font-weight: 700;
+}
